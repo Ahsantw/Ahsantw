@@ -48,9 +48,9 @@ for NVIDIA GPUs and edge devices.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn]
-- 🐙 GitHub: [Your GitHub]
-- 📧 Email: [Your Email]
+- 💼 LinkedIn: https://www.linkedin.com/in/ahsan-sarwar-a3424a112/
+- 🐙 GitHub: [https://github.com/Ahsantw]
+- 📧 Email: [ahsantw@gmail.com]
 
 ---
 
